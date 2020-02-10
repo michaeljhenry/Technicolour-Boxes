@@ -1,0 +1,19 @@
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
+body {
+    background-color: black;
+}
+
+.box__container {
+    position: relative;
+    width: 900px;
+    height: 2000px;
+    margin: auto auto;
+    background-color: grey;
+}
+
+.box {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
