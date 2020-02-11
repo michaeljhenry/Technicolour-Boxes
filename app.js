@@ -33,9 +33,7 @@ var controller = (function(touchCtrl, UICtrl) {
     }
 
     var addColourCtrl = function() {
-        console.log("hi");
         var colour = touchCtrl.getColour();
-        console.log("hi");
 
         UICtrl.displayColour(colour);
     }
